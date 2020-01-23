@@ -449,7 +449,7 @@ class Index extends React.Component {
 
         return (
 
-            <h1>The page you are looking for diesnot exist 404 !!!</h1>
+            <h3 style={{font-align:center}}>Welcome to the homepage !!</h3>
 
             )
 
@@ -468,7 +468,7 @@ class Index extends React.Component {
                     <Card style={{ width: '18rem' }}>
                       {/*<Card.Img variant="top" src="holder.js/100px180" />*/}
                       <Card.Body>
-                        <Card.Title>My Assigment</Card.Title>
+                        <Card.Title>UI Assignmrnt</Card.Title>
                         <Card.Text>
                           Some quick example text to build on the card title and make up the bulk of
                           the card's content.
